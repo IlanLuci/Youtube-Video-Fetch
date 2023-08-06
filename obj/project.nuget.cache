@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "eG24V9ajYKV1d0Ty1Wjf875zdRtyhH7cxMKKG7dlQ9+Ynf5E6DiTCWd/Z1gu2rT7w6LWFR2ZalagB7mjbMOmSA==",
+  "success": true,
+  "projectFilePath": "/Volumes/ILANS DRIVE/Coding/Scripts and Bots/Youtube Educational Videos/Youtube Educational Videos.csproj",
+  "expectedPackageFiles": [
+    "/Users/ilan/.nuget/packages/google.apis/1.61.0/google.apis.1.61.0.nupkg.sha512",
+    "/Users/ilan/.nuget/packages/google.apis.auth/1.61.0/google.apis.auth.1.61.0.nupkg.sha512",
+    "/Users/ilan/.nuget/packages/google.apis.core/1.61.0/google.apis.core.1.61.0.nupkg.sha512",
+    "/Users/ilan/.nuget/packages/google.apis.youtube.v3/1.61.0.3106/google.apis.youtube.v3.1.61.0.3106.nupkg.sha512",
+    "/Users/ilan/.nuget/packages/logman/1.2.1/logman.1.2.1.nupkg.sha512",
+    "/Users/ilan/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

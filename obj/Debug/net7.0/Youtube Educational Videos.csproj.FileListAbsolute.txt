@@ -1,0 +1,46 @@
+C:/Users/thero/Documents/Code/Youtube Educational Videos/bin/Debug/net7.0/Youtube Educational Videos.exe
+C:/Users/thero/Documents/Code/Youtube Educational Videos/bin/Debug/net7.0/Youtube Educational Videos.deps.json
+C:/Users/thero/Documents/Code/Youtube Educational Videos/bin/Debug/net7.0/Youtube Educational Videos.runtimeconfig.json
+C:/Users/thero/Documents/Code/Youtube Educational Videos/bin/Debug/net7.0/Youtube Educational Videos.dll
+C:/Users/thero/Documents/Code/Youtube Educational Videos/bin/Debug/net7.0/Youtube Educational Videos.pdb
+C:/Users/thero/Documents/Code/Youtube Educational Videos/bin/Debug/net7.0/Google.Apis.dll
+C:/Users/thero/Documents/Code/Youtube Educational Videos/bin/Debug/net7.0/Google.Apis.Auth.PlatformServices.dll
+C:/Users/thero/Documents/Code/Youtube Educational Videos/bin/Debug/net7.0/Google.Apis.Auth.dll
+C:/Users/thero/Documents/Code/Youtube Educational Videos/bin/Debug/net7.0/Google.Apis.Core.dll
+C:/Users/thero/Documents/Code/Youtube Educational Videos/bin/Debug/net7.0/Google.Apis.YouTube.v3.dll
+C:/Users/thero/Documents/Code/Youtube Educational Videos/bin/Debug/net7.0/Newtonsoft.Json.dll
+C:/Users/thero/Documents/Code/Youtube Educational Videos/obj/Debug/net7.0/Youtube Educational Videos.csproj.AssemblyReference.cache
+C:/Users/thero/Documents/Code/Youtube Educational Videos/obj/Debug/net7.0/Youtube Educational Videos.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/thero/Documents/Code/Youtube Educational Videos/obj/Debug/net7.0/Youtube Educational Videos.AssemblyInfoInputs.cache
+C:/Users/thero/Documents/Code/Youtube Educational Videos/obj/Debug/net7.0/Youtube Educational Videos.AssemblyInfo.cs
+C:/Users/thero/Documents/Code/Youtube Educational Videos/obj/Debug/net7.0/Youtube Educational Videos.csproj.CoreCompileInputs.cache
+C:/Users/thero/Documents/Code/Youtube Educational Videos/obj/Debug/net7.0/Youtube Educational Videos.csproj.CopyComplete
+C:/Users/thero/Documents/Code/Youtube Educational Videos/obj/Debug/net7.0/Youtube Educational Videos.dll
+C:/Users/thero/Documents/Code/Youtube Educational Videos/obj/Debug/net7.0/refint/Youtube Educational Videos.dll
+C:/Users/thero/Documents/Code/Youtube Educational Videos/obj/Debug/net7.0/Youtube Educational Videos.pdb
+C:/Users/thero/Documents/Code/Youtube Educational Videos/obj/Debug/net7.0/Youtube Educational Videos.genruntimeconfig.cache
+C:/Users/thero/Documents/Code/Youtube Educational Videos/obj/Debug/net7.0/ref/Youtube Educational Videos.dll
+C:/Users/thero/Documents/Code/Youtube Educational Videos/bin/Debug/net7.0/LogMan.dll
+/Volumes/ILANS DRIVE/Coding/Scripts and Bots/Youtube Educational Videos/bin/Debug/net7.0/Youtube Educational Videos
+/Volumes/ILANS DRIVE/Coding/Scripts and Bots/Youtube Educational Videos/bin/Debug/net7.0/Youtube Educational Videos.deps.json
+/Volumes/ILANS DRIVE/Coding/Scripts and Bots/Youtube Educational Videos/bin/Debug/net7.0/Youtube Educational Videos.runtimeconfig.json
+/Volumes/ILANS DRIVE/Coding/Scripts and Bots/Youtube Educational Videos/bin/Debug/net7.0/Youtube Educational Videos.dll
+/Volumes/ILANS DRIVE/Coding/Scripts and Bots/Youtube Educational Videos/bin/Debug/net7.0/Youtube Educational Videos.pdb
+/Volumes/ILANS DRIVE/Coding/Scripts and Bots/Youtube Educational Videos/bin/Debug/net7.0/Google.Apis.dll
+/Volumes/ILANS DRIVE/Coding/Scripts and Bots/Youtube Educational Videos/bin/Debug/net7.0/Google.Apis.Auth.PlatformServices.dll
+/Volumes/ILANS DRIVE/Coding/Scripts and Bots/Youtube Educational Videos/bin/Debug/net7.0/Google.Apis.Auth.dll
+/Volumes/ILANS DRIVE/Coding/Scripts and Bots/Youtube Educational Videos/bin/Debug/net7.0/Google.Apis.Core.dll
+/Volumes/ILANS DRIVE/Coding/Scripts and Bots/Youtube Educational Videos/bin/Debug/net7.0/Google.Apis.YouTube.v3.dll
+/Volumes/ILANS DRIVE/Coding/Scripts and Bots/Youtube Educational Videos/bin/Debug/net7.0/LogMan.dll
+/Volumes/ILANS DRIVE/Coding/Scripts and Bots/Youtube Educational Videos/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Volumes/ILANS DRIVE/Coding/Scripts and Bots/Youtube Educational Videos/obj/Debug/net7.0/Youtube Educational Videos.csproj.AssemblyReference.cache
+/Volumes/ILANS DRIVE/Coding/Scripts and Bots/Youtube Educational Videos/obj/Debug/net7.0/Youtube Educational Videos.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/ILANS DRIVE/Coding/Scripts and Bots/Youtube Educational Videos/obj/Debug/net7.0/Youtube Educational Videos.AssemblyInfoInputs.cache
+/Volumes/ILANS DRIVE/Coding/Scripts and Bots/Youtube Educational Videos/obj/Debug/net7.0/Youtube Educational Videos.AssemblyInfo.cs
+/Volumes/ILANS DRIVE/Coding/Scripts and Bots/Youtube Educational Videos/obj/Debug/net7.0/Youtube Educational Videos.csproj.CoreCompileInputs.cache
+/Volumes/ILANS DRIVE/Coding/Scripts and Bots/Youtube Educational Videos/obj/Debug/net7.0/Youtube Educational Videos.csproj.CopyComplete
+/Volumes/ILANS DRIVE/Coding/Scripts and Bots/Youtube Educational Videos/obj/Debug/net7.0/Youtube Educational Videos.dll
+/Volumes/ILANS DRIVE/Coding/Scripts and Bots/Youtube Educational Videos/obj/Debug/net7.0/refint/Youtube Educational Videos.dll
+/Volumes/ILANS DRIVE/Coding/Scripts and Bots/Youtube Educational Videos/obj/Debug/net7.0/Youtube Educational Videos.pdb
+/Volumes/ILANS DRIVE/Coding/Scripts and Bots/Youtube Educational Videos/obj/Debug/net7.0/Youtube Educational Videos.genruntimeconfig.cache
+/Volumes/ILANS DRIVE/Coding/Scripts and Bots/Youtube Educational Videos/obj/Debug/net7.0/ref/Youtube Educational Videos.dll
